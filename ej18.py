@@ -1,7 +1,7 @@
 nombre_completo = input("Ingrese su nombre completo: ")
 
-print(f"Nombre completo en minúsculas: {nombre_completo.lower()}")
-print(f"Nombre completo en mayúsculas: {nombre_completo.upper()}")
+print("Nombre completo en minúsculas:", nombre_completo.lower())
+print("Nombre completo en mayúsculas:", nombre_completo.upper())
 
 palabras = nombre_completo.split()
 nombre_formateado = " ".join([palabra.capitalize() for palabra in palabras])

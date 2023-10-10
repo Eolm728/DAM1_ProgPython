@@ -1,7 +1,7 @@
 nombre = input("Ingrese su nombre: ")
 
-numero = int(input("Ingrese un número entero: "))
+num = int(input("Ingrese un número entero: "))
 
 
-for _ in range(numero):
-    print(nombre)
+for i in range(0,10,num):
+    print(i,nombre)
