@@ -1,4 +1,4 @@
 
-nombre = input("Escribe tu nombre: ")
+nombre = input("Escribe tu nombre:\n")
 
 print("Hola,", nombre)
