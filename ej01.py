@@ -1,4 +1,7 @@
 
-nombre = input("Escribe tu nombre:\n")
+def saludar (nombre):
+    return "hola, " + nombre
 
-print("Hola,", nombre)
+nombre = input("Escribe tu nombre: ")
+mensaje = saludar (nombre)
+print(nombre)
