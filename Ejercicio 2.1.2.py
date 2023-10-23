@@ -1,0 +1,1 @@
+Contraseña = float(input("S"))

@@ -854,6 +854,15 @@
         "documentation": {}
     },
     {
+        "label": "edad",
+        "kind": 5,
+        "importPath": "Ejercicio 2.1.1",
+        "description": "Ejercicio 2.1.1",
+        "peekOfCode": "edad = int(input(\"Ingrese su edad: \"))\n#Esta es opcional XD\nif edad > 100:\n        print(\"En serio??!!\", edad, \"años??, tu deverias de estar muerto eso es imposible...\")\nelif  edad < 18:\n    print(\"Eres menor de edad\")\nelif edad > 18:\n    print(\"Eres mayor de edad\")",
+        "detail": "Ejercicio 2.1.1",
+        "documentation": {}
+    },
+    {
         "label": "ancho",
         "kind": 5,
         "importPath": "P1.b2",
