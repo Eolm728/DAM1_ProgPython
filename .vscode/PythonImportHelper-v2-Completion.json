@@ -863,6 +863,132 @@
         "documentation": {}
     },
     {
+        "label": "Pass1",
+        "kind": 5,
+        "importPath": "Ejercicio 2.1.2",
+        "description": "Ejercicio 2.1.2",
+        "peekOfCode": "Pass1 = \"Usuario_Tarde\"\nPass2 = \"4358\"\nPass3 = \"Password\"\nPass4 = \"Prog_DAM\"\nPass5 = \"GITHUB\"\nPass6 = \"Porfin emma se aprendio el Pseudocodigo con Python\"\ncontraseña = input(\"Introduzca la contraseña: \")\nif contraseña == Pass1 :\n    print(\"Correcto!!\")\nelif contraseña == Pass2 :",
+        "detail": "Ejercicio 2.1.2",
+        "documentation": {}
+    },
+    {
+        "label": "Pass2",
+        "kind": 5,
+        "importPath": "Ejercicio 2.1.2",
+        "description": "Ejercicio 2.1.2",
+        "peekOfCode": "Pass2 = \"4358\"\nPass3 = \"Password\"\nPass4 = \"Prog_DAM\"\nPass5 = \"GITHUB\"\nPass6 = \"Porfin emma se aprendio el Pseudocodigo con Python\"\ncontraseña = input(\"Introduzca la contraseña: \")\nif contraseña == Pass1 :\n    print(\"Correcto!!\")\nelif contraseña == Pass2 :\n    print(\"Correcto Papu\")",
+        "detail": "Ejercicio 2.1.2",
+        "documentation": {}
+    },
+    {
+        "label": "Pass3",
+        "kind": 5,
+        "importPath": "Ejercicio 2.1.2",
+        "description": "Ejercicio 2.1.2",
+        "peekOfCode": "Pass3 = \"Password\"\nPass4 = \"Prog_DAM\"\nPass5 = \"GITHUB\"\nPass6 = \"Porfin emma se aprendio el Pseudocodigo con Python\"\ncontraseña = input(\"Introduzca la contraseña: \")\nif contraseña == Pass1 :\n    print(\"Correcto!!\")\nelif contraseña == Pass2 :\n    print(\"Correcto Papu\")\nelif contraseña == Pass3 :",
+        "detail": "Ejercicio 2.1.2",
+        "documentation": {}
+    },
+    {
+        "label": "Pass4",
+        "kind": 5,
+        "importPath": "Ejercicio 2.1.2",
+        "description": "Ejercicio 2.1.2",
+        "peekOfCode": "Pass4 = \"Prog_DAM\"\nPass5 = \"GITHUB\"\nPass6 = \"Porfin emma se aprendio el Pseudocodigo con Python\"\ncontraseña = input(\"Introduzca la contraseña: \")\nif contraseña == Pass1 :\n    print(\"Correcto!!\")\nelif contraseña == Pass2 :\n    print(\"Correcto Papu\")\nelif contraseña == Pass3 :\n    print(\"Correct yoo got an ice cream\")",
+        "detail": "Ejercicio 2.1.2",
+        "documentation": {}
+    },
+    {
+        "label": "Pass5",
+        "kind": 5,
+        "importPath": "Ejercicio 2.1.2",
+        "description": "Ejercicio 2.1.2",
+        "peekOfCode": "Pass5 = \"GITHUB\"\nPass6 = \"Porfin emma se aprendio el Pseudocodigo con Python\"\ncontraseña = input(\"Introduzca la contraseña: \")\nif contraseña == Pass1 :\n    print(\"Correcto!!\")\nelif contraseña == Pass2 :\n    print(\"Correcto Papu\")\nelif contraseña == Pass3 :\n    print(\"Correct yoo got an ice cream\")\nelif contraseña == Pass4 :",
+        "detail": "Ejercicio 2.1.2",
+        "documentation": {}
+    },
+    {
+        "label": "Pass6",
+        "kind": 5,
+        "importPath": "Ejercicio 2.1.2",
+        "description": "Ejercicio 2.1.2",
+        "peekOfCode": "Pass6 = \"Porfin emma se aprendio el Pseudocodigo con Python\"\ncontraseña = input(\"Introduzca la contraseña: \")\nif contraseña == Pass1 :\n    print(\"Correcto!!\")\nelif contraseña == Pass2 :\n    print(\"Correcto Papu\")\nelif contraseña == Pass3 :\n    print(\"Correct yoo got an ice cream\")\nelif contraseña == Pass4 :\n    print(\"Incorret- naaaa mentiras, Es CORRECTO\")",
+        "detail": "Ejercicio 2.1.2",
+        "documentation": {}
+    },
+    {
+        "label": "contraseña",
+        "kind": 5,
+        "importPath": "Ejercicio 2.1.2",
+        "description": "Ejercicio 2.1.2",
+        "peekOfCode": "contraseña = input(\"Introduzca la contraseña: \")\nif contraseña == Pass1 :\n    print(\"Correcto!!\")\nelif contraseña == Pass2 :\n    print(\"Correcto Papu\")\nelif contraseña == Pass3 :\n    print(\"Correct yoo got an ice cream\")\nelif contraseña == Pass4 :\n    print(\"Incorret- naaaa mentiras, Es CORRECTO\")\nelif contraseña == Pass5 :",
+        "detail": "Ejercicio 2.1.2",
+        "documentation": {}
+    },
+    {
+        "label": "num1",
+        "kind": 5,
+        "importPath": "Ejercicio 2.1.3",
+        "description": "Ejercicio 2.1.3",
+        "peekOfCode": "num1 = int(input(\"Ingrese el numero a dividir: \"))\nnum2 = int(input(\"Ingrese el segundo numero divisor: \"))\ntry:\n    if num1 / num2:\n        div = num1 / num2\n        print(\"El resultado es\", div)\n#Tuve que personalizar el mensaje predeterminado cuando divides entre cero:\nexcept ZeroDivisionError:\n    print(\"Error: No puedes dividir entre cero\")   \n\"\"\"",
+        "detail": "Ejercicio 2.1.3",
+        "documentation": {}
+    },
+    {
+        "label": "num2",
+        "kind": 5,
+        "importPath": "Ejercicio 2.1.3",
+        "description": "Ejercicio 2.1.3",
+        "peekOfCode": "num2 = int(input(\"Ingrese el segundo numero divisor: \"))\ntry:\n    if num1 / num2:\n        div = num1 / num2\n        print(\"El resultado es\", div)\n#Tuve que personalizar el mensaje predeterminado cuando divides entre cero:\nexcept ZeroDivisionError:\n    print(\"Error: No puedes dividir entre cero\")   \n\"\"\"\nnum1 = int(input(\"Ingrese el numero a dividir: \"))",
+        "detail": "Ejercicio 2.1.3",
+        "documentation": {}
+    },
+    {
+        "label": "num1",
+        "kind": 5,
+        "importPath": "Ejercicio 2.1.3",
+        "description": "Ejercicio 2.1.3",
+        "peekOfCode": "num1 = int(input(\"Ingrese el numero a dividir: \"))\nnum2 = int(input(\"Ingrese el segundo numero divisor: \"))\nif num2 == 0: \n    print(\"Error: No puedes dividir entre cero\")\nelse:\n    div = num1 / num2\n    print(\"El resultado es\", div)",
+        "detail": "Ejercicio 2.1.3",
+        "documentation": {}
+    },
+    {
+        "label": "num2",
+        "kind": 5,
+        "importPath": "Ejercicio 2.1.3",
+        "description": "Ejercicio 2.1.3",
+        "peekOfCode": "num2 = int(input(\"Ingrese el segundo numero divisor: \"))\nif num2 == 0: \n    print(\"Error: No puedes dividir entre cero\")\nelse:\n    div = num1 / num2\n    print(\"El resultado es\", div)",
+        "detail": "Ejercicio 2.1.3",
+        "documentation": {}
+    },
+    {
+        "label": "num",
+        "kind": 5,
+        "importPath": "Ejercicio 2.1.4",
+        "description": "Ejercicio 2.1.4",
+        "peekOfCode": "num = int(input(\"Ingrese el numero: \"))\nif num % 2 == 0: \n    print(\"Es par\")\nelse:\n    print(\"Es Inpar\")",
+        "detail": "Ejercicio 2.1.4",
+        "documentation": {}
+    },
+    {
+        "label": "edad",
+        "kind": 5,
+        "importPath": "Ejercicio 2.1.5",
+        "description": "Ejercicio 2.1.5",
+        "peekOfCode": "edad = int(input(\"Introduzca su edad: \"))\ningresos =int(input(\"Coloque sus ingresos mensuales:\"))\nif ingresos < 1000:\n    print(\"No debes tributar.\")\nelif edad < 16:\n    print(\"No debes tributar.\")\nelse:\n    print(\"Debes tributar.\")\n\"\"\"\nedad = int(input(\"Introduzca su edad: \"))",
+        "detail": "Ejercicio 2.1.5",
+        "documentation": {}
+    },
+    {
+        "label": "edad",
+        "kind": 5,
+        "importPath": "Ejercicio 2.1.5",
+        "description": "Ejercicio 2.1.5",
+        "peekOfCode": "edad = int(input(\"Introduzca su edad: \"))\ningresos =int(input(\"Coloque sus ingresos mensuales:\"))\nif ingresos >= 1000 and edad == 16:\n    print(\"Debes tribular\")\nelse:\n    print(\"No debes\")",
+        "detail": "Ejercicio 2.1.5",
+        "documentation": {}
+    },
+    {
         "label": "ancho",
         "kind": 5,
         "importPath": "P1.b2",
